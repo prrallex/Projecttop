@@ -1,0 +1,56 @@
+body{
+	background-color: #5668ec; 
+}
+.hed{
+	background-color:#003366;
+	height: 70px;
+
+
+}
+.vopros{
+font-size:40px;
+}
+.li1{
+	display: inline-block;
+	padding: 30px;
+	color: white;
+	font size:25px;
+	position: relative;
+	top: -13px;
+}
+.first{
+	display: inline-block;
+	padding: 40px;
+	color: white;
+	font size:25px;
+	position: relative;
+	top: -13px;
+}
+h1{
+	font-size: 50px;
+}
+.game{
+	display: block;
+	display: inline-block;
+	padding: 20px;
+	color: white;
+	position: relative;
+	font-size: 40px;
+	
+}
+.forest{
+	width: 200px;
+	height: 220px;
+}
+.gta{
+	width: 200px;
+	height: 260px;
+}
+.minecraft{
+	width: 200px;
+	height: 220px;
+}
+.csgo{
+	width: 200px;
+	height: 220px
+}

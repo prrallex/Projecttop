@@ -1,0 +1,25 @@
+.back{
+	width: 1500px;
+	height: 1080px;
+	background-color: white;
+	font-size: 45px;
+	position: absolute;
+	 top: 10%;
+    left: 10%;
+    padding: 30px;
+}
+.head{
+	position: absolute;
+	left: 20%;
+	width: 1920px;
+	height: 250px;
+	font-size: 60px;
+}
+body{
+	background-image: url(fon.jpg);
+	background-repeat: no-repeat;
+}
+.car{
+	width: 640px;
+	height: 450px;
+}

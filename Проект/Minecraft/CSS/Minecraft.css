@@ -1,0 +1,35 @@
+body{
+	background-image: url(minecraftFON.png);
+}
+.name{
+	width: 1920px;
+	height: 250px;
+}
+.imgcenter{
+	display: block;
+	margin: auto;
+	width: 600px;
+	height: 250px;
+}
+h2{
+	font-size: 60px;
+	color:white;
+
+}
+.otvet1{
+	color: black;
+	font-size: 40px;
+	background-color: white;
+	float: left;
+}
+.opasnoblock{
+	padding: 25px;
+	background-color: white;
+	color:red;
+	font-size: 35px;
+}
+.img{
+	width: 500px;
+	height: 400px;
+	padding: 30px;
+}
